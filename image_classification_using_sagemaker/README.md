@@ -109,5 +109,3 @@ Following screenshot shows a sample of the query and response.
 ![](./images/sample_prediction.png)
 
 
-## Standout Suggestions
-**TODO (Optional):** This is where you can provide information about any standout suggestions that you have attempted.
